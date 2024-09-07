@@ -4,20 +4,20 @@
   align-items: center;
   position: sticky;
   top: 0;
-  background: #000000a3;
-  box-shadow: 1px 1px 5px rgb(189, 188, 188);
+  background: #070132a3;
+
 
 }
 
 .Links {
   display: flex;
   justify-items: center;
-  /* align-items: center; */
+  align-items: center;
   gap: 1.5rem;
 }
 
 .Link {
-  color: gray;
+  color: rgb(234, 234, 234);
   font-weight: 500;
   font-size: 1.2rem;
   transition: all 0.5s;

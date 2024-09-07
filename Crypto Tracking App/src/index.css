@@ -6,14 +6,19 @@
 
 
 :root {
-  --white: #e3e3e3;
-  --black: #111;
+  --white: #ffffff;
+
+  --black: #121128;
+
   --blue: #3a80e9;
+
   --grey: #888;
+
   --darkgrey: #1b1b1b;
+
   --green: #61c96f;
   --red: #f94141;
-  --gradient1: #313133;
+  --gradient1: #0F1536;
   --gradient2: #08080b;
   --fontOrange:rgb(238, 113, 67)
 
